@@ -1,0 +1,2 @@
+# LeetcodeAlgorithm
+Solve algorithm
